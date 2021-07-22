@@ -1,0 +1,10 @@
+.container {
+  display: flex;
+  justify-content: space-around;
+}
+
+#submit-container {
+  display: flex;
+  flex-direction: column;
+  justify-content: space-between;
+}

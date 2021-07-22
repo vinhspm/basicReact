@@ -1,0 +1,9 @@
+.list-item {
+  display: flex;
+  justify-content: space-around;
+}
+.button-group {
+  position: absolute;
+  right: 0;
+  bottom: 0;
+}
